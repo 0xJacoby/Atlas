@@ -1,0 +1,25 @@
+{
+  "name": "Atlas",
+  "version": "1.0.0",
+  "description": "A discord bot with interesting features.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xJacoby/Atlas.git"
+  },
+  "keywords": [],
+  "author": "0xJacoby",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0xJacoby/Atlas/issues"
+  },
+  "homepage": "https://github.com/0xJacoby/Atlas#readme",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "dotenv": "^8.2.0"
+  }
+}
